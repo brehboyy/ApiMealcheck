@@ -1,0 +1,9 @@
+Recuperer le contenu d'une branch : 
+    -   git checkout -b <branch>
+
+il faut dabord ajouter les fichier 
+    git add * 
+Mettre un message 
+    git commit -m "message"
+Push le contenu d'un dossier dans un branch 
+    -  git push -u origin <branch>
